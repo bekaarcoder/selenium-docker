@@ -1,0 +1,11 @@
+{
+  "firstName": "John",
+  "lastName": "Doe",
+  "email": "johndoe@email.com",
+  "password": "password123",
+  "street": "New Delhi",
+  "city": "Delhi",
+  "zip": "110010",
+  "passengersCount": "1",
+  "expectedPrice": "$584 USD"
+}
